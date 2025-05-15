@@ -26,6 +26,7 @@ public class T01AddProductTest {
         String password = testExcel.getCellData("password");
         new P01_LoginPage(driver).login(userName,password)
                 .navigateToTShirtProducts();
+        new Pages.P03_ProductPage(driver).getProductsList();
 
     }
     @AfterClass
