@@ -126,7 +126,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback:
 
 * **GitHub:** [@mohamedsaleh1791](https://github.com/mohamedsaleh1791)
-* **Email:** [mohamedsaleh1791@example.com](mailto:your.email@example.com)
+* **Email:** [mohamedsaleh1791@gmail.com](mailto:mohamedsaleh1791@gmail.com)
 
 ---
 
